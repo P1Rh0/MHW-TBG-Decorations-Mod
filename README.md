@@ -100,3 +100,9 @@ All decorations slotted into your armour will provide extra skills, as if the ar
 | Evasion Jewel (2)     | Evade Window\*       | Reduce dodge values by 1. (Minimum of 1)                     |
 
 *These are new skills, so are only available through this mod!
+
+## Coming soon
+
+- Weapon slots
+- Elder dragons
+- Kulu-Ya-Ku?
