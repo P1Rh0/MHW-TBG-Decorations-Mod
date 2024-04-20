@@ -4,39 +4,39 @@
 ## Obtaining feystones
 After fighting any monster you now get a chance at getting a feystone (or two!) as a reward. Roll a D6 and use the following table to check if you receive any.
 
-| Monster          | Feystone 1          | F1 Drop    | Feystone 2          | F2 Drop |
-| ---------------- | ------------------- | ---------- | ------------------- | ------- |
-| Jagras 1         | Mysterious Feystone | 6          |                     |         |
-| Jagras 2         | Mysterious Feystone | 4, 5, 6    | Mysterious Feystone | 6       |
-| Jagras 3         | Mysterious Feystone | 3, 4, 5, 6 | Mysterious Feystone | 5, 6    |
-| Tobi-Kadachi 1   | Mysterious Feystone | 4, 5, 6    |                     |         |
-| Tobi-Kadachi 2   | Glowing Feystone    | 4, 5, 6    | Glowing Feystone    | 6       |
-| Tobi-Kadachi 3   | Glowing Feystone    | 3, 4, 5, 6 | Glowing Feystone    | 5, 6    |
-| Anjanath 1       | Glowing Feystone    | 4, 5, 6    |                     |         |
-| Anjanath 2       | Worn Feystone       | 4, 5, 6    | Worn Feystone       | 6       |
-| Anjanath 3       | Worn Feystone       | 3, 4, 5, 6 | Worn Feystone       | 5, 6    |
-| Rathalos 1       | Worn Feystone       | 4, 5, 6    |                     |         |
-| Rathalos 2       | Warped Feystone     | 4, 5, 6    | Warped Feystone     | 6       |
-| Rathalos 3       | Warped Feystone     | 3, 4, 5, 6 | Warped Feystone     | 5, 6    |
-| Azure Rathalos 1 | Worn Feystone       | 4, 5, 6    |                     |         |
-| Azure Rathalos 2 | Warped Feystone     | 4, 5, 6    | Warped Feystone     | 6       |
-| Azure Rathalos 3 | Warped Feystone     | 3, 4, 5, 6 | Warped Feystone     | 5, 6    |
-|                  |                     |            |                     |         |
-| Barroth 1        | Mysterious Feystone | 6          |                     |         |
-| Barroth 2        | Mysterious Feystone | 4, 5, 6    | Mysterious Feystone | 6       |
-| Barroth 3        | Mysterious Feystone | 3, 4, 5, 6 | Mysterious Feystone | 5, 6    |
-| Pukei-Pukei 1    | Mysterious Feystone | 4, 5, 6    |                     |         |
-| Pukei-Pukei 2    | Glowing Feystone    | 4, 5, 6    | Glowing Feystone    | 6       |
-| Pukei-Pukei 3    | Glowing Feystone    | 3, 4, 5, 6 | Glowing Feystone    | 5, 6    |
-| Jyuratodus 1     | Glowing Feystone    | 4, 5, 6    |                     |         |
-| Jyuratodus 2     | Worn Feystone       | 4, 5, 6    | Worn Feystone       | 6       |
-| Jyuratodus 3     | Worn Feystone       | 3, 4, 5, 6 | Worn Feystone       | 5, 6    |
-| Diablos 1        | Worn Feystone       | 4, 5, 6    |                     |         |
-| Diablos 2        | Warped Feystone     | 4, 5, 6    | Warped Feystone     | 6       |
-| Diablos 3        | Warped Feystone     | 3, 4, 5, 6 | Warped Feystone     | 5, 6    |
-| Black Diablos 1  | Worn Feystone       | 4, 5, 6    |                     |         |
-| Black Diablos 2  | Warped Feystone     | 4, 5, 6    | Warped Feystone     | 6       |
-| Black Diablos 3  | Warped Feystone     | 3, 4, 5, 6 | Warped Feystone     | 5, 6    |
+| Monster          | Feystone 1          | Feystone 1 Drop | Feystone 2          | Feystone 2 Drop |
+| ---------------- | ------------------- | --------------- | ------------------- | --------------- |
+| Jagras 1         | Mysterious Feystone | 6               |                     |                 |
+| Jagras 2         | Mysterious Feystone | 4, 5, 6         | Mysterious Feystone | 6               |
+| Jagras 3         | Mysterious Feystone | 3, 4, 5, 6      | Mysterious Feystone | 5, 6            |
+| Tobi-Kadachi 1   | Mysterious Feystone | 4, 5, 6         |                     |                 |
+| Tobi-Kadachi 2   | Glowing Feystone    | 4, 5, 6         | Glowing Feystone    | 6               |
+| Tobi-Kadachi 3   | Glowing Feystone    | 3, 4, 5, 6      | Glowing Feystone    | 5, 6            |
+| Anjanath 1       | Glowing Feystone    | 4, 5, 6         |                     |                 |
+| Anjanath 2       | Worn Feystone       | 4, 5, 6         | Worn Feystone       | 6               |
+| Anjanath 3       | Worn Feystone       | 3, 4, 5, 6      | Worn Feystone       | 5, 6            |
+| Rathalos 1       | Worn Feystone       | 4, 5, 6         |                     |                 |
+| Rathalos 2       | Warped Feystone     | 4, 5, 6         | Warped Feystone     | 6               |
+| Rathalos 3       | Warped Feystone     | 3, 4, 5, 6      | Warped Feystone     | 5, 6            |
+| Azure Rathalos 1 | Worn Feystone       | 4, 5, 6         |                     |                 |
+| Azure Rathalos 2 | Warped Feystone     | 4, 5, 6         | Warped Feystone     | 6               |
+| Azure Rathalos 3 | Warped Feystone     | 3, 4, 5, 6      | Warped Feystone     | 5, 6            |
+|                  |                     |                 |                     |                 |
+| Barroth 1        | Mysterious Feystone | 6               |                     |                 |
+| Barroth 2        | Mysterious Feystone | 4, 5, 6         | Mysterious Feystone | 6               |
+| Barroth 3        | Mysterious Feystone | 3, 4, 5, 6      | Mysterious Feystone | 5, 6            |
+| Pukei-Pukei 1    | Mysterious Feystone | 4, 5, 6         |                     |                 |
+| Pukei-Pukei 2    | Glowing Feystone    | 4, 5, 6         | Glowing Feystone    | 6               |
+| Pukei-Pukei 3    | Glowing Feystone    | 3, 4, 5, 6      | Glowing Feystone    | 5, 6            |
+| Jyuratodus 1     | Glowing Feystone    | 4, 5, 6         |                     |                 |
+| Jyuratodus 2     | Worn Feystone       | 4, 5, 6         | Worn Feystone       | 6               |
+| Jyuratodus 3     | Worn Feystone       | 3, 4, 5, 6      | Worn Feystone       | 5, 6            |
+| Diablos 1        | Worn Feystone       | 4, 5, 6         |                     |                 |
+| Diablos 2        | Warped Feystone     | 4, 5, 6         | Warped Feystone     | 6               |
+| Diablos 3        | Warped Feystone     | 3, 4, 5, 6      | Warped Feystone     | 5, 6            |
+| Black Diablos 1  | Worn Feystone       | 4, 5, 6         |                     |                 |
+| Black Diablos 2  | Warped Feystone     | 4, 5, 6         | Warped Feystone     | 6               |
+| Black Diablos 3  | Warped Feystone     | 3, 4, 5, 6      | Warped Feystone     | 5, 6            |
 
 ## Appraising feystones
 You can roll a D6 to appraise the feystones. Each feystone will provide one decoration. Note that feystones can be freely traded, however decorations themselves cannot (or do, I’m not the boss of you, just have fun). Make sure you decide who is going to roll for each of your groups feystones as, once appraised, the decorations are yours forever!
