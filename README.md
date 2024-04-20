@@ -1,0 +1,1 @@
+# MHW-TBG-Decorations-Mod
